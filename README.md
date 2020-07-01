@@ -1,66 +1,27 @@
-## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
+# Exto
 
-# Newsletter: Stay in Touch for Future Updates
+A portfolio theme with a blog for Stackbit. [Live Demo](https://themes.stackbit.com/demos/exto)
 
-If you are a webdesigner interested in Jekyll, the static website generator, this little newsletter is for you. I share tutorials, clever code snippets and information about my own Jekyll Themes called [*Feeling Responsive*][7] and [*Simplicity*][8]. Please don't expect weekly emails :)
+Click the button below to use this theme in Gatsby, Hugo or Jekyll via the Stackbit site builder:
 
-[![Subscribe to Jekyll Newsletter](https://phlow.github.io/static/tinyletter_subscribe_button.png)](https://tinyletter.com/feeling-responsive)
+[![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-exto)
 
+### About Stackbit
 
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
+[Stackbit](https://www.stackbit.com/) enables features like inline content editing, live previews and collaboration tools for Jamstack sites.
 
-## A Responsive Jekyll Theme: *Feeling Responsive*
+## Working with This Theme
 
-Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>.
+This theme is written in [Unibit](https://docs.stackbit.com/unibit/), which is designed to transpile themes to work with multiple static site generators (SSG) such as Jekyll, Hugo & Gatsby.
 
-To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
+If you are looking to use this theme on a specific SSG, it is recommended that you use the [Stackbit site builder](https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-exto) to generate the theme. The site builder will generate the SSG-specific source to your own GitHub repository. You are free to use and modify the generated source however you wish.
 
-And what license is *Feeling Responsive* released under? [This one][2].
+### Editing This Theme
 
+While we recommend using the [site builder](https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-exto) to generate a version of the theme for any of the supported static site generators, you can develop locally using the Unibit CLI.  For details on how to install and use Unibit, visit the [documentation](https://docs.stackbit.com/site-builder/unibit/).
 
+### Develop Using CodeSandbox
 
-## Why use this theme?
+You can also develop this theme in the browser using Unibit via CodeSandbox.
 
-Feeling Responsive is heavily customizable.
-
-1. Language-Support :)
-2. Optimized for speed and it's responsive.
-3. Built on Foundation Framework.
-4. Six different Headers.
-5. Customizable navigation, footer,...
-
-**[More ›][3]**
-
-
-
-## Changelog
-
-*Feeling Responsive* is in active development. Thank you to everyone who contributed, especially [Róbert Papp][5], [Alexandra von Criegern](https://github.com/plutonik-a) and [Juan Jose Amor Iglesias](https://github.com/jjamor).
-
-**[Read Changelog ›][6]**
-
-
-
-## Video Tutorial
-
-Click the image to [watch the YouTube-Video-Tutorial][4].
-
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
-
-
-
-
-
-
-
-
- [1]: http://phlow.github.io/feeling-responsive/documentation/
- [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
- [3]: http://phlow.github.io/feeling-responsive/info/
- [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
- [5]: https://github.com/TWiStErRob
- [6]: https://phlow.github.io/feeling-responsive/changelog/
- [7]: http://phlow.github.io/feeling-responsive/
- [8]: http://phlow.github.io/simplicity/
- [9]: #
- [10]: #
+[Fork in CodeSandbox](https://codesandbox.io/s/github/stackbithq/stackbit-theme-exto)
