@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: B. Sc. Mensch Computer Systems
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Lena Hinzer. I have a Bachelor's in Human-Computer Interaction at JMU Würzburg.
+Because of the rapid rise of technology in society, I started to study Human Computer Interaction to help more people use technology in their daily lives. While doing a volunteer year working with the elderly and mentally ill, I tried bringing them closer to technology. For this I organized a course teaching them about the use of computers. There I noticed that understanding of technology is still a very complicated issue for many people. Since then I am especially interested in the topics of Accessibility, Consumer Electronics and User Centered Design. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
